@@ -1,3 +1,6 @@
+![Time 7](https://i.postimg.cc/bwvVjVW7/Banner-Time7.png)
+
+
 ## 🍥 Olá, nós somos a Time7!
 
 Somos uma empresa de desenvolvimento de software especializada em criar aplicações com o melhor jeito ninja!
