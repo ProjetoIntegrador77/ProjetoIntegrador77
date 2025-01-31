@@ -5,8 +5,11 @@ Com a velocidade de um shinobi, criamos soluções back-end e front-end, prontas
 Venha conhecer a aldeia da folha da inovação! 
 
 
-### 🌍 Localização:
+### Localização:
 São Paulo - Brasil
+
+### Instituição de Ensino:
+Generation Brasil
 
 ## 🥷 Nossos ninjas:
 
