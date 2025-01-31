@@ -6,7 +6,7 @@ Venha conhecer a aldeia da folha da inovação!
 
 
 ### 🌍 Localização:
-São Paulo - BraSil
+São Paulo - Brasil
 
 ## 🥷 Nossos ninjas:
 
