@@ -3,8 +3,8 @@
 
 ## 🍥 Olá, nós somos a Time7!
 
-Somos uma empresa de desenvolvimento de software especializada em criar aplicações com o melhor jeito ninja!
-Com a velocidade de um shinobi, criamos soluções back-end e front-end, prontas para o seu negócio.
+Somos uma empresa de desenvolvimento de software especializada em criar aplicações com o melhor jeito ninja! <br />
+Com a velocidade de um shinobi, criamos soluções back-end e front-end, prontas para o seu negócio. <br />
 Venha conhecer a aldeia da folha da inovação! 
 
 
