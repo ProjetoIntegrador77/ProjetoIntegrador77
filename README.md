@@ -1,4 +1,4 @@
-## 🍥 Olá, nós somos a Time 7!
+## 🍥 Olá, nós somos a Time7!
 
 Somos uma empresa de desenvolvimento de software especializada em criar aplicações com o melhor jeito ninja!
 Com a velocidade de um shinobi, criamos soluções back-end e front-end, prontas para o seu negócio.
